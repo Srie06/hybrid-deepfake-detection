@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+tmp/
+*.log
+
+# Dataset (optional - avoid pushing huge files)
+sample_data/*.mp4
+sample_data/*.wav
